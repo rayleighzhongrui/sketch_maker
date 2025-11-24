@@ -1,0 +1,5 @@
+{
+  "name": "Sketch Workshop",
+  "description": "A specialized tool for artists to generate black and white sketch references for expressions and actions using Gemini Nano Banana Pro.",
+  "requestFramePermissions": []
+}
